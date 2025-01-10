@@ -7,7 +7,6 @@
 - 🇬🇧 Based in the United Kingdom
 - 🎓 First Class BEng Software Engineering
 - 🏛️ Founder of [SHU Software Engineering Society](https://www.hallamstudentsunion.com/opportunities/societies/social/group/software/)
-- 👨‍💼 Director @ [Shulutions](https://www.shulutions.com)  
   
 
 <br/>  
